@@ -68,6 +68,5 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 ---
 
 Terima kasih telah menggunakan dan berkontribusi pada **Antivirus_gui**!
-```
 
 
