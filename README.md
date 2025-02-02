@@ -1,6 +1,3 @@
-Berikut adalah template `README.md` untuk repository **Antivirus_gui** yang bisa kamu gunakan untuk GitHub:
-
-```markdown
 # Antivirus_gui
 
 Antivirus_gui adalah sebuah aplikasi antivirus sederhana berbasis Python yang menyediakan antarmuka grafis (GUI) untuk memindai dan menangani file berbahaya seperti virus dan malware. Alat ini menggunakan deteksi berbasis signature dan memungkinkan pengguna untuk memindai folder atau file, serta mengkarantina file yang mencurigakan.
@@ -73,15 +70,4 @@ Proyek ini dilisensikan di bawah **MIT License** - lihat file [LICENSE](LICENSE)
 Terima kasih telah menggunakan dan berkontribusi pada **Antivirus_gui**!
 ```
 
-### Penjelasan:
-1. **Deskripsi Proyek**: Menyediakan gambaran umum tentang aplikasi.
-2. **Fitur**: Menyebutkan fitur utama dari alat antivirus ini.
-3. **Teknologi yang Digunakan**: Memberikan informasi tentang teknologi yang digunakan dalam aplikasi.
-4. **Instalasi**: Langkah-langkah untuk menginstal dan menjalankan aplikasi.
-5. **Penggunaan**: Cara menjalankan dan menggunakan aplikasi.
-6. **Kontribusi**: Menyediakan panduan bagi orang yang ingin berkontribusi pada proyek.
-7. **Lisensi**: Menyebutkan lisensi yang digunakan (untuk proyek ini bisa menggunakan **MIT License** atau lainnya sesuai preferensi).
 
----
-
-Jika kamu ingin menyesuaikan lebih lanjut atau menambahkan detail lain, beri tahu saya! 🚀
