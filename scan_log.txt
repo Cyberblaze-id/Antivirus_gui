@@ -1,0 +1,16 @@
+Scan Date: 2025-01-23 15:17:36.275530
+Infected Files (5):
+ - /root/antivirus_gui/virus_signatures.json
+ - /root/antivirus_gui/fileterkenavirus.c
+ - /root/antivirus_gui/antivirus_gui.py
+ - /root/antivirus_gui/scan_log.txt
+ - /root/antivirus_gui/folder/virus.out
+==================================================
+Scan Date: 2025-01-23 15:19:38.612430
+No infected files found.
+==================================================
+Scan Date: 2025-01-23 15:21:19.442911
+Infected Files (2):
+ - /root/antivirus_gui/folder/virus.out
+ - /root/antivirus_gui/folder/fileterkenavirus.c
+==================================================
